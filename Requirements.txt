@@ -1,0 +1,9 @@
+streamlit
+ultralytics
+opencv-python
+mysql-connector-python
+pandas
+plotly
+numpy
+Pillow
+matplotlib
